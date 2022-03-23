@@ -1,0 +1,15 @@
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\bin\Debug\net6.0\C Sharp Spellcheck Assignment.exe
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\bin\Debug\net6.0\C Sharp Spellcheck Assignment.deps.json
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\bin\Debug\net6.0\C Sharp Spellcheck Assignment.runtimeconfig.json
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\bin\Debug\net6.0\C Sharp Spellcheck Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\bin\Debug\net6.0\ref\C Sharp Spellcheck Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\bin\Debug\net6.0\C Sharp Spellcheck Assignment.pdb
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.csproj.AssemblyReference.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.AssemblyInfoInputs.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.AssemblyInfo.cs
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.csproj.CoreCompileInputs.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\ref\C Sharp Spellcheck Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.pdb
+C:\Users\d.zahiroddini\source\repos\C Sharp Spellcheck Assignment\C Sharp Spellcheck Assignment\obj\Debug\net6.0\C Sharp Spellcheck Assignment.genruntimeconfig.cache
